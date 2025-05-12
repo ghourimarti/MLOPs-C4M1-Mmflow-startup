@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cb37f2acea864d6dbc43c702238264ee/artifacts
+end_time: 1747024320152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb37f2acea864d6dbc43c702238264ee
+run_name: carefree-lynx-750
+run_uuid: cb37f2acea864d6dbc43c702238264ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747024320099
+status: 3
+tags: []
+user_id: ZAIN

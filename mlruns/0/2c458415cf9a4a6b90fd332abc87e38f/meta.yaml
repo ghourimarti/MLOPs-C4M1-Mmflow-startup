@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2c458415cf9a4a6b90fd332abc87e38f/artifacts
+deleted_time: 1747023928056
+end_time: 1747023770472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c458415cf9a4a6b90fd332abc87e38f
+run_name: adventurous-hawk-525
+run_uuid: 2c458415cf9a4a6b90fd332abc87e38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747023770417
+status: 3
+tags: []
+user_id: ZAIN

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a5fe5270036244d0b6405ef26a38a690/artifacts
+end_time: 1747023934934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5fe5270036244d0b6405ef26a38a690
+run_name: unruly-ant-22
+run_uuid: a5fe5270036244d0b6405ef26a38a690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747023934901
+status: 3
+tags: []
+user_id: ZAIN

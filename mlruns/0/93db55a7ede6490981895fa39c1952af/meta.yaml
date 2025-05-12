@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/93db55a7ede6490981895fa39c1952af/artifacts
+deleted_time: 1747023928056
+end_time: 1747023902058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 93db55a7ede6490981895fa39c1952af
+run_name: smiling-moth-21
+run_uuid: 93db55a7ede6490981895fa39c1952af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747023902026
+status: 3
+tags: []
+user_id: ZAIN

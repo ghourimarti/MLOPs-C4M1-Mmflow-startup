@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ba875effda334b56b02ad977b28a516e/artifacts
+deleted_time: 1747023928056
+end_time: 1747023878799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ba875effda334b56b02ad977b28a516e
+run_name: big-carp-514
+run_uuid: ba875effda334b56b02ad977b28a516e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747023878773
+status: 3
+tags: []
+user_id: ZAIN

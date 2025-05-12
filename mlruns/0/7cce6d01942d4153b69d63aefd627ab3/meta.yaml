@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7cce6d01942d4153b69d63aefd627ab3/artifacts
+end_time: 1747024712773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cce6d01942d4153b69d63aefd627ab3
+run_name: worried-rook-67
+run_uuid: 7cce6d01942d4153b69d63aefd627ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747024712718
+status: 3
+tags: []
+user_id: ZAIN
